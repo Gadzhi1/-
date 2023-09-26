@@ -5,6 +5,8 @@
 а также может выгрузить данные по запросу, плюс еще некоторые функции, которые не так важны, но они есть)
 Для того, чтобы все работало, нужно вставить свой путь для файлов в началe файла functions.py и после этого можно собрать в приложение .exe файлы main.py и telegram.py.
 
+Далее на скриншотах показано как выглядит часть функционала консольного приложения:
+
 <img width="923" alt="Снимок экрана 2023-09-26 033813" src="https://github.com/Gadzhi1/loans-and-orders/assets/70072508/e8a1685d-f693-4bb2-8f35-8be5747e8b13">
 <img width="990" alt="Снимок экрана 2023-09-26 033617" src="https://github.com/Gadzhi1/loans-and-orders/assets/70072508/6afdde8f-ac58-43ce-b638-18b66c19c872">
 <img width="455" alt="товар" src="https://github.com/Gadzhi1/loans-and-orders/assets/70072508/781c0089-86a3-4aa8-9b56-20bd9239e7e5">
