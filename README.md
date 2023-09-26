@@ -9,6 +9,8 @@
 
 <img width="923" alt="Снимок экрана 2023-09-26 033813" src="https://github.com/Gadzhi1/loans-and-orders/assets/70072508/e8a1685d-f693-4bb2-8f35-8be5747e8b13">
 <img width="990" alt="Снимок экрана 2023-09-26 033617" src="https://github.com/Gadzhi1/loans-and-orders/assets/70072508/6afdde8f-ac58-43ce-b638-18b66c19c872">
+<img width="622" alt="Снимок экрана 2023-09-26 035903" src="https://github.com/Gadzhi1/loans-and-orders/assets/70072508/afcd2977-3d32-48d1-9093-4d3122b0a19d">
+<img width="623" alt="Снимок экрана 2023-09-26 040117" src="https://github.com/Gadzhi1/loans-and-orders/assets/70072508/f668bfce-52ed-4427-863d-442068623aa0">
 <img width="455" alt="товар" src="https://github.com/Gadzhi1/loans-and-orders/assets/70072508/781c0089-86a3-4aa8-9b56-20bd9239e7e5">
 <img width="575" alt="товар 2" src="https://github.com/Gadzhi1/loans-and-orders/assets/70072508/7f4e9ddd-b90b-44c5-90c5-213f3a0bd954">
 <img width="462" alt="Снимок экрана 2023-09-26 033314" src="https://github.com/Gadzhi1/loans-and-orders/assets/70072508/84bdcbdd-378b-47cb-ab91-85a96ab709cf">
