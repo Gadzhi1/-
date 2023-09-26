@@ -14,7 +14,7 @@
 <img width="488" alt="Снимок экрана 2023-09-26 032718" src="https://github.com/Gadzhi1/loans-and-orders/assets/70072508/89b89fc5-daee-49ad-8157-3e22fc98ff66">
 <img width="488" alt="Снимок экрана 2023-09-26 033244" src="https://github.com/Gadzhi1/loans-and-orders/assets/70072508/8773493e-cba9-4445-a24b-f1a97dec0a73">
 <img width="470" alt="Снимок экрана 2023-09-26 033410" src="https://github.com/Gadzhi1/loans-and-orders/assets/70072508/1587e601-19cf-4e76-bfaa-e7d9d31e861d">
-![Uploading Снимок экрана 2023-09-26 033244.png…]()
+<img width="488" alt="Снимок экрана 2023-09-26 033244" src="https://github.com/Gadzhi1/loans-and-orders/assets/70072508/f52d4d53-927b-4bde-9127-01fedbbcd880">
 <img width="470" alt="очистить" src="https://github.com/Gadzhi1/loans-and-orders/assets/70072508/835ac63a-711e-49bc-94c7-94ab301eca92">
 <img width="516" alt="Снимок экрана 2023-09-26 032610" src="https://github.com/Gadzhi1/loans-and-orders/assets/70072508/ae7ad784-48b9-4858-a7f2-54af70736bdd">
 <img width="520" alt="Снимок экрана 2023-09-26 032753" src="https://github.com/Gadzhi1/loans-and-orders/assets/70072508/29fb632f-ef49-46f2-9813-87593eec774c">
