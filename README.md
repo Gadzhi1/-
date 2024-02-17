@@ -10,6 +10,17 @@
 
 Далее на скриншотах показано как выглядит часть функционала консольного приложения:
 
+
+# The goal of the project is to automate processes related to debts and orders from customers and replenishment of goods in a hardware store.
+
+The functions of adding, searching, sorting, deleting, clearing, writing off, changing, graphically displaying data and that's not all are implemented. It is also possible to save data about friends (regular customers), so as not to write them down every time you add an order or debt.
+
+Attached to the console application is a telegram bot that duplicates all the main chat actions in an easy-to-read and searchable format, and can also upload data upon request, plus some other functions that are not so important, but they are there)
+
+In order for everything to work, you need to insert your path for the files at the beginning of the functions.py file and after that you can assemble the main.py and telegram.py files into the .exe application.
+
+The following screenshots show what part of the functionality of the console application looks like:
+
 <img width="923" alt="Снимок экрана 2023-09-26 033813" src="https://github.com/Gadzhi1/loans-and-orders/assets/70072508/e8a1685d-f693-4bb2-8f35-8be5747e8b13">
 <img width="990" alt="Снимок экрана 2023-09-26 033617" src="https://github.com/Gadzhi1/loans-and-orders/assets/70072508/6afdde8f-ac58-43ce-b638-18b66c19c872">
 <img width="622" alt="Снимок экрана 2023-09-26 035903" src="https://github.com/Gadzhi1/loans-and-orders/assets/70072508/afcd2977-3d32-48d1-9093-4d3122b0a19d">
